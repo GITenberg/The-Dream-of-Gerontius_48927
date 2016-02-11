@@ -1,0 +1,30 @@
+_repo: The-Dream-of-Gerontius_48927
+contributor:
+  commentator:
+    agent_name: Egan, Maurice Francis
+    birthdate: 1852
+    deathdate: 1924
+    gutenberg_agent_id: '26158'
+    url: http://www.gutenberg.org/2009/agents/26158
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2015-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Dream of Gerontius
+url: http://www.gutenberg.org/ebooks/48927
